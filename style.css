@@ -1,0 +1,21 @@
+.bg-image {
+    position:fixed;
+    left:0;
+    top:0;
+    z-index:-1;
+    height: 100%;
+    width:100%; 
+    opacity: 0.5
+}
+
+.add {
+    width: 30%;
+}
+.del {
+    width: 30%
+}
+li {
+    height: 30px;
+    width: 100px;
+    padding: 20px;
+}
